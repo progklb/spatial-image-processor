@@ -10,6 +10,8 @@ Included in the project are a few test images that demonstrate the functionality
 
 Note that there is a memory leak and the code is not as optimised as it could be. This was purely a technical experiment to see how images look when mapped to 3D space.
 
+For more detailed post, see my blog write up [here] (https://programmerkb.wordpress.com/2017/06/17/colour-to-spatial-mapping-image-processor/).
+
 ### Controls
 
 There are two cameras in scene - one that is animated (horribly, originally set up to capture GIFs), and another that allows for free-roaming. In order to switch cameras, enable the camera you want to use in the scene and disable the other.
