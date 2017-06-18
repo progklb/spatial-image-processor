@@ -1,6 +1,6 @@
 # unity-image-rgb-to-xyz
 
-This is an experimental project to map each pixel's RGB value to an object's XYZ coordinate.
+This is an experimental project to map each pixel's RGB value to an object's XYZ coordinates.
 
 ### Information
 
