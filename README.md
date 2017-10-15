@@ -10,7 +10,7 @@ Included in the project are a few test images that demonstrate the functionality
 
 Note that there is a memory leak and the code is not as optimised as it could be. This was purely a technical experiment to see how images look when mapped to 3D space.
 
-For more detailed post, see my blog write up [here](https://programmerkb.wordpress.com/2017/06/17/colour-to-spatial-mapping-image-processor/).
+For a more detailed post, see my blog write up [here](https://programmerkb.wordpress.com/2017/06/17/colour-to-spatial-mapping-image-processor/).
 
 ### Controls
 
