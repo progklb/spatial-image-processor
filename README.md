@@ -1,6 +1,6 @@
-# Image RGB to XYZ
+# Spatial Image Processor
 
-This is an experimental project written in Unity to map each pixel's RGB value to an object's XYZ coordinates.
+An experimental project written in Unity to map each pixel's RGB value to a corresponding XYZ coordinate.
 
 ### Information
 
